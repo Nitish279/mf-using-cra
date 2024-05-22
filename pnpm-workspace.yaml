@@ -1,0 +1,6 @@
+packages:
+  - "container"
+  - "header"
+  - "footer"
+  - "app1"
+  - "app2"
